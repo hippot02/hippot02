@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hippot02
 - 👀 I’m interested in learning language
-- 🌱 I’m currently learning Java, Php and Data Base
+- 🌱 I’m currently learning Java, Php, C++ and Data Base
 
-- 📫 How to reach me : hippot02#2864 on discord and @chiboubou2 on twitter
+- 📫 How to reach me : hippot02#2864 on discord.
 
 
 <!---
