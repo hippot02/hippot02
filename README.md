@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hippot02
-- 👀 I’m interested in learning language
-
-- 📫 How to reach me : hippot02#2864 on discord.
+- 👀 I’m actually at Nantes Ynov Campus.
+- I want to be a Back-end/Full-stack dev and maybe some mobile programmation
+- You can contact me on discord : hippot02. 
 
 
 <!---
