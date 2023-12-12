@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hippot02
-- 👀 I’m actually at Nantes Ynov Campus.
+- 👀 I’m currently at Nantes Ynov Campus.
 - I want to be a Back-end/Full-stack dev and maybe some mobile programmation
 - You can contact me on discord : hippot02. 
 
